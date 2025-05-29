@@ -2,7 +2,7 @@
 
 This project implements an image classification pipeline using a custom Convolutional Neural Network (CNN) trained on the [Imagenette dataset](https://github.com/fastai/imagenette). Built with PyTorch Lightning, the model learns to classify images using data augmentation, regularization, and efficient training callbacks.
 
----
+
 
 ## Overview
 
@@ -14,9 +14,9 @@ This project implements an image classification pipeline using a custom Convolut
   - Early Stopping
   - Model Checkpointing
 
----
 
-## 🧰 Features
+
+## Features
 
 - CNN with increasing filters: 16 → 32 → 64
 - Fully connected layers with ReLU and dropout
